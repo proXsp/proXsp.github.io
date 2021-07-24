@@ -1,4 +1,4 @@
 module.exports = {
-  publicPath: './dist',
-  outputDir: './dist'
+  publicPath: './dist/',
+  outputDir: './dist/'
 }
